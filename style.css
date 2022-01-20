@@ -1,0 +1,14 @@
+div {
+    width: 120px;
+    height:70px;
+    border-radius: 4px;
+}
+.bg-pink {
+    background: pink;
+    display: inline-block;
+}
+.bg-yellow {
+    background: rgb(248, 248, 160);
+    display: inline-block;
+}
+
