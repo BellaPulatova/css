@@ -1,4 +1,4 @@
-div{
+.container-green{
     width: 170px;
     height: 40px;
     text-align: center;
@@ -21,7 +21,121 @@ div{
 .green-forth{
     background-color: chartreuse;
 }
+.div-blue-container{
+    width: 170px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: small;
+    margin: 10px;
+}
 .blue-1{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+    display: sblock;
+}
+.blue-2{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+    display: block;
+}
+.blue-3{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+    display: block;
+}
+.blue-4{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-5{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-6{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-7{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-8{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-9{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-1{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-10{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-11{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-12{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-13{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-14{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-15{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-16{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-17{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-18{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-19{
+    background-color: deepskyblue;
+    width:100px;
+    height: 40px;
+}
+.blue-20{
     background-color: deepskyblue;
     width:100px;
     height: 40px;
