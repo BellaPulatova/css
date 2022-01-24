@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255,255,255);
+    padding: 30px;
+}
+.container{
+    background-color:rgb(227,230,232);
+    display: inline-block;
+    width:920px;
+    height:400px;
+    text-align: center;
+    margin-left:130px;
+    padding-top: 50px;
+}
+img{
+    width: 900px;
+    height: 300px;
+}
+.bottom{
+    width: 50px;
+    height: 45px;
+    background-color:rgb(40,42,53);
+    margin-left: 555px;
+}
+.button{
+    background-color: rgb(40,42,53);
+    color: aliceblue;
+    border-radius: 30px;
+    font-size: medium;
+    font-weight: 700;
+    width: 280px;
+    height: 60px;
+    border-color: black;
+    text-align: center;
+    margin-left: 440px;
+
+}
