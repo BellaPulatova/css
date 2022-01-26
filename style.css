@@ -1,64 +1,63 @@
-.container{
-    padding-left: 500px;
-    padding-top:30px
-}
-.greenbox{
-    background-color: chartreuse;
-    width: 180px;
-    height: 50px;
-    text-align: center;
-    padding: 10px;
-    color: white;
+.wrapper{
+    background-color: whitesmoke;
+    width: 100%;
+    height:80%;
+    margin: auto;
+    box-sizing: border-box;
     font-family: sans-serif;
-    font-weight: 600;
-    font-size: medium;
-    margin: 10px
 }
-.bluecontainer{
-    padding: 170px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-.blue {
-    background-color: rgb(0, 191, 255);
+.textcontainer{
+    width:50%;
+    height:100%;
     display: inline-block;
-    width: 150px;
-    height: 50px;
-    text-align: center;
-    padding-top: 20px;
-    color: white;
-    font-family: sans-serif;
-    font-weight: 600;
-    font-size: x-small;
-    margin: 8px
+    margin-left: 30px;
 }
-.deepblue{
-    background-color: rgb(0, 115, 153);
+.image{
+    float: right;
+}
+.greenbutton{
+    background-color: mediumseagreen;
+    width: 130px;
+    height: 30px;
+    color: mintcream;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.welcometext{
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.mottotext{
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 60px;
+    font-weight: 700;
+}
+span{
+    color: mediumseagreen;
+}
+.descriptiontext{
+    line-height: 30px;
+    margin-bottom: 40px;
+    margin-top: 5px;
+    color: rgba(0, 0, 0, 0.3);
+    font-weight: 700;
+
+}
+.circle{
+    width:8px;
+    height:8px;
+    background-color: rgba(60, 179, 113, 0.4);
+    border-radius: 50%;
     display: inline-block;
-    width: 150px;
-    height: 50px;
-    text-align: center;
-    padding-top: 20px;
-    color: white;
-    font-family: sans-serif;
-    font-weight: 600;
-    font-size: x-small;
-    margin: 8px
+    vertical-align: bottom;
 }
-.lastcontainer{
-    padding: 430px;
-    padding-top: 5px;
-}
-.last{
-    background-color: rgb(0, 115, 153);
-    display: inline-block;
-    width: 150px;
-    height: 50px;
-    text-align: center;
-    padding-top: 20px;
-    color: white;
-    font-family: sans-serif;
-    font-weight: 600;
-    font-size: x-small;
-    margin: 8px;
+.green{
+    background-color: mediumseagreen;
 }
